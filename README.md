@@ -1,2 +1,3 @@
 # AIML_HW2_DatasetClass
-Dataset class implementation for Homework 2
+This repo containts a Dataset class implementation for Homework 2
+
